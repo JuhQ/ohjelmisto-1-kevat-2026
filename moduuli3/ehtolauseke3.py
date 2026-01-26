@@ -11,3 +11,7 @@ if nimi == "Juha" or nimi == "juha" or nimi == "jUha":
 
 if nimi.lower() == "juha":
     print("Toinen if-lauseke: Syötteeksi annettiin Juha")
+
+
+if "iffit on selviä":
+    print("Otetaan läsnäolo")
